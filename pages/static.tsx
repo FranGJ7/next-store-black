@@ -47,7 +47,7 @@ const Static: NextPage = (props:{
 
         <Col>
           <h3>
-        Gerado no cliente: </h3> <h2>{clientSideData?.timestamp.toDateString()}</h2>
+        Gerado no cliente: </h3> <h2>{clientSideData?.timestamp}</h2>
           
         </Col>
       </Row>
