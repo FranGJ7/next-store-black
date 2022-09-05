@@ -22,9 +22,6 @@ const Static: NextPage = (props:{
     const [clientSideData, setClientSideData] = useState<ApiResponse>()
 
 
-
-
-
   useEffect(() => {
     fetchData()
   }, [])
@@ -50,8 +47,8 @@ const Static: NextPage = (props:{
 
         <Col>
           <h3>
-            Gerado no cliente: {clientSideData?.timestamp}
-          </h3>
+        Gerado no cliente: </h3> <h2>{clientSideData?.timestamp.toDateString()}</h2>
+          
         </Col>
       </Row>
     </Container>
