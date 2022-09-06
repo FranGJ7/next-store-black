@@ -4,7 +4,7 @@ import Image from "next/image"
 import Link from "next/link"
 import React, { useState } from "react"
 import { Button, Card, CardBody, CardSubtitle } from "reactstrap"
-import { useCart } from "../hooks/useCard"
+import { useCart } from "../hooks/useCart"
 import { ProductType } from "../services/products"
 import SuccessToast from "./SucessToast"
 

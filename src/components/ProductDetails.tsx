@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React, { useState } from "react";
 import { Button, Col, Row } from "reactstrap";
-import { useCart } from "../hooks/useCard";
+import { useCart } from "../hooks/useCart";
 import { ProductType } from "../services/products";
 import SuccessToast from "./SucessToast";
 
