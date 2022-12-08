@@ -1,4 +1,6 @@
-Pequeno site de venda demonstrativo apenas para adquirir conhecimento em Next.js e conhecer um pouco mais de seu poder e recursos junto ao TypeScript organização de página estrutura de pastas para deixa cada vez mais organizado e prático o ammbiente de trabalho, acompanhado de depoly feito na Vercel, Para designer do layaout foi usado Reactstrap com responsividade.
+Pequeno site de venda demonstrativo apenas para adquirir conhecimento em Next.js e conhecer um pouco mais de seu poder e recursos junto ao TypeScript organização de página estrutura de pastas para deixa cada vez mais organizado e prático o ambiente de trabalho.<br>
+acompanhado de depoly feito na Vercel.<br> 
+Para designer do layaout foi usado Reactstrap.
 
 
 Link do site: https://next-store-black.vercel.app/
